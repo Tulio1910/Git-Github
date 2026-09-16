@@ -1,6 +1,6 @@
 
 alert ('Boas vindas ao jogo do numero secreto');
-let numeroSecreto = 6;
+let numeroSecreto = 7;
 console.log('O numero secreto é \n' +  numeroSecreto);
 let chute = prompt('Escolha um numero');
 console.log('O numero do chute é ' + chute);
